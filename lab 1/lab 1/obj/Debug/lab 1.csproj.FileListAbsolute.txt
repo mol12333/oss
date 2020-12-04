@@ -1,0 +1,29 @@
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\bin\Debug\lab 1.exe
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\bin\Debug\lab 1.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\MainWindow.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\App.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1_MarkupCompile.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1_MarkupCompile.lref
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\MainWindow.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1.g.resources
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1.exe
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 1\lab 1\obj\Debug\lab 1.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab 1.exe
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab 1.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\MainWindow.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\App.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab 1_MarkupCompile.cache
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab 1_MarkupCompile.lref
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\bin\Debug\lab 1.exe
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\bin\Debug\lab 1.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\MainWindow.baml
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab 1.g.resources
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\lab 1\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
